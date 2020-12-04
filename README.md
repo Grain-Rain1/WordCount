@@ -203,14 +203,14 @@ long note(string file){//当一行里有//算有一行注释行
 （弹出命令行界面方法：win+r，cmd，回车）
 ### txt文件
 #### Dogs.txt
-![Image](https://github.com/Grain-Rain1/WordCount/blob/master/img-storage/1.png)
+![Image](https://github.com/Grain-Rain1/WordCount/blob/main/1.png)
 #### cx.txt
-![Image](https://github.com/Grain-Rain1/WordCount/blob/master/img-storage/2.png)
+![Image](https://github.com/Grain-Rain1/WordCount/blob/main/2.png)
 ### 运行结果
 #### 统计字符数，单词数，句子数运行结果
-![Image](https://github.com/Grain-Rain1/WordCount/blob/master/img-storage/3.png)
+![Image](https://github.com/Grain-Rain1/WordCount/blob/main/3.png)
 #### 统计代码行，空白行，注释行运行结果
-![Image](https://github.com/Grain-Rain1/WordCount/blob/master/img-storage/4.png)
+![Image](https://github.com/Grain-Rain1/WordCount/blob/main/4.png)
 
 
 
